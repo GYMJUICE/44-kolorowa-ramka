@@ -1,0 +1,19 @@
+div {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+p {
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+    color: blue;
+    border: 6px solid;
+    border-top-color: hotpink;
+    border-bottom-color: teal;
+    border-right-color: black;
+    border-left-color: blue;
+       
+}
